@@ -12,6 +12,6 @@ public class Main {
         int y2 = sc.nextInt();
         boolean res = true;
         String  msg = res ? "yes" : "no";
-        System.out.println(msg);
+//         System.out.println(msg);
     }
 }
